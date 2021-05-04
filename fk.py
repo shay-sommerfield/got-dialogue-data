@@ -3,6 +3,7 @@ import textstat
 import os
 from pandas import DataFrame
 import matplotlib.pyplot as plt
+import numpy
 
 ### Extract text from all data files ####
 def add_zero(num):
